@@ -1,0 +1,42 @@
+
+.container {
+  font-family: Arial, sans-serif;
+  padding: 0 2rem;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 0;
+  border-bottom: 1px solid #ccc;
+}
+
+.logo {
+  height: 60px;
+}
+
+.nav a {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: #0077cc;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 2rem 0;
+}
+
+section {
+  margin-bottom: 3rem;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem 0;
+  border-top: 1px solid #ccc;
+  color: #555;
+}
